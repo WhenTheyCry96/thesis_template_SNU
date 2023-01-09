@@ -242,17 +242,17 @@
 							서울대학교 대학원\\
 						}
 						\vspace{2mm}
-						{
+						{	% FIXME
 							\fontsize {14pt}{16pt}
 							\selectfont
 							전기 정보 공학부 \\
 						}
-						{
+						{	
 							\fontsize {16pt}{24pt}
 							\selectfont
 							\@KorAuthor \\
 						}
-					\else
+					\else % FIXME
 						DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING\\
 						COLLEGE OF ENGINEERING \\
 						SEOUL NATIONAL UNIVERSITY \\

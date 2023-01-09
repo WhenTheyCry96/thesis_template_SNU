@@ -29,7 +29,20 @@ You can generate $beautiful$ appendix in ToC (Table of Contents) and main-text a
      <img src="README_appendix.png" width="800" />
    </p>
 
-### 4. Overleaf Compatibility
+## Notes
+### 1. How to Change the Name of Your Department
+You can change your department name by changing the line 248 and 256 in [snuee.cls](./format_latex/snuee.cls) file.
+   <p align="center">
+     <img src="README_major.png" width="800" />
+   </p>
+Please refer to the official sample thesis file from your department for minor issues!!! 
+
+(ex: abstract format is different from that of Department of Mechanical and Aerospace Engineering)
+   <p align="center">
+     <img src="README_difference.png" width="800" />
+   </p>
+
+### 2. Overleaf Compatibility
 You have to select 2021 or the older TeX Live version (IDK why ㅠㅠ). If you're using [Overleaf](https://www.overleaf.com/), just compiling with pdfLaTeX will generate the beautiful pdf file without setting makeindex for nomenclature generation.
    <p align="center">
      <img src="README_overleaf_texlive2021.png" width="800" />
