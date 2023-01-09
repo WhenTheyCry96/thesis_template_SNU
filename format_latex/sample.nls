@@ -1,0 +1,13 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{\(+a\)}]\begingroup Operator\nomeqref {0}\nompageref{1}
+  \item [{\(2a\)}]\begingroup Number\nomeqref {0}\nompageref{1}
+  \item [{\(:a\)}]\begingroup Punctuation symbol\nomeqref {0}\nompageref{1}
+  \item [{\(\alpha\)}]\begingroup Greek character\nomeqref {0}\nompageref{1}
+  \item [{\(Aa\)}]\begingroup Uppercase letter\nomeqref {0}\nompageref{1}
+  \item [{\(aa\)}]\begingroup Lowercase letter\nomeqref {0}\nompageref{1}
+  \item [{\(c\)}]\begingroup Speed of light in a vacuum\nomeqref {0}\nompageref{1}
+  \item [{\(h\)}]\begingroup Planck constant\nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}
