@@ -17,13 +17,19 @@ You have to compile the tex file with makeindex as follows:
    </p>
 
 ### 2. Table/Figure Name Generation
-You can generate 'Table' (or 'Figure') in List of Tables (Figures) page. If you don't want to use this feature, comment the lines from 51 to 65 of snuee.cls file.
+You can generate 'Table' (or 'Figure') in List of Tables (Figures) page. If you don't want to use this feature, comment the lines from 51 to 65 of [snuee.cls](./format_latex/snuee.cls) file.
    <p align="center">
      <img src="README_figuretable_name.png" width="800" />
    </p>
 
-### 3. Overleaf Compatibility
-You have to select 2021 or the older TeX Live version (IDK why though). If you're using [Overleaf](https://www.overleaf.com/), just compiling with pdfLaTeX will generate the beautiful pdf file without setting makeindex for nomenclature generation.
+### 3. Appendix 
+You can generate $beautiful$ appendix in ToC (Table of Contents) and main-text as follows:
+   <p align="center">
+     <img src="README_appendix.png" width="800" />
+   </p>
+
+### 4. Overleaf Compatibility
+You have to select 2021 or the older TeX Live version (IDK why ㅠㅠ). If you're using [Overleaf](https://www.overleaf.com/), just compiling with pdfLaTeX will generate the beautiful pdf file without setting makeindex for nomenclature generation.
    <p align="center">
      <img src="README_overleaf_texlive2021.png" width="800" />
    </p>

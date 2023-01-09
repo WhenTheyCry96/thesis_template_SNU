@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.16)  9 JAN 2023 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.16)  9 JAN 2023 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -397,63 +397,74 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip91
+) (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count293
+\c@@ppsavesec=\count294
+\c@@ppsaveapp=\count295
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 77.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 77.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 78.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nanumtype1\lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
+\scratchcounter=\count296
 \scratchdimen=\dimen159
 \scratchbox=\box55
-\nofMPsegments=\count294
-\nofMParguments=\count295
+\nofMPsegments=\count297
+\nofMParguments=\count298
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count296
+\MPscratchCnt=\count299
 \MPscratchDim=\dimen160
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
 \everyMPtoPDFconversion=\toks30
 ) (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) [1
 
 {C:/Users/sunpark/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}] [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3] (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
@@ -463,7 +474,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 78.
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.sty
@@ -471,23 +482,23 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\sunpark\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count299
+\c@section@level=\count302
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 \@thesisinfowidth=\skip92
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--111
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 108--112
+Overfull \hbox (17.0pt too wide) in paragraph at lines 109--113
 [][] 
  []
 
@@ -521,7 +532,7 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.143 \lipsum[1-4]~
+l.144 \lipsum[1-4]~
                    \cite{anderson1964hard} [1
 
 
@@ -530,22 +541,22 @@ l.143 \lipsum[1-4]~
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \lipsum[1-4]~
+l.147 \lipsum[1-4]~
                    \cite{anderson1964hard} [2]
-<dummy.png, id=196, 358.33875pt x 273.27094pt>
+<dummy.png, id=213, 358.33875pt x 273.27094pt>
 File: dummy.png Graphic file (type png)
 <use dummy.png>
-Package pdftex.def Info: dummy.png  used on input line 152.
+Package pdftex.def Info: dummy.png  used on input line 153.
 (pdftex.def)             Requested size: 338.01643pt x 257.78787pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.161 \lipsum[1-4]~
+l.162 \lipsum[1-4]~
                    \cite{anderson1964hard} [3] [4 <./dummy.png>]
 File: dummy.png Graphic file (type png)
 <use dummy.png>
-Package pdftex.def Info: dummy.png  used on input line 167.
+Package pdftex.def Info: dummy.png  used on input line 168.
 (pdftex.def)             Requested size: 338.01643pt x 257.78787pt.
  [5] [6] [7] [8] [9]
 Chapter 2.
@@ -560,44 +571,47 @@ Chapter 4.
 [22
 
 ] [23]
-Chapter 5.
-[24
+File: dummy.png Graphic file (type png)
+<use dummy.png>
+Package pdftex.def Info: dummy.png  used on input line 266.
+(pdftex.def)             Requested size: 338.01643pt x 257.78787pt.
+ [24
 
-] (main.bbl [25]) [26
+] [25] (main.bbl [26]) [27
 
 ]
 LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <22> not available
-(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 318.
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 353.
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--325
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 322--326
+Overfull \hbox (17.0pt too wide) in paragraph at lines 357--361
 [][] 
  []
 
-[27
+[28
 
-] [28
+] [29
 
 ] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 96FD8515A30E6815541AF4E8F4C8E89D;2729.
+(rerunfilecheck)             Checksum: 69A7887E93FBCE75AA93C25767AE531E;3146.
  ) 
 Here is how much of TeX's memory you used:
- 12367 strings out of 478625
- 206108 string characters out of 2841417
- 622630 words of memory out of 3000000
- 30151 multiletter control sequences out of 15000+600000
+ 12539 strings out of 478625
+ 209754 string characters out of 2841417
+ 625034 words of memory out of 3000000
+ 30311 multiletter control sequences out of 15000+600000
  445831 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,12n,120p,328b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 125i,13n,120p,349b,577s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbb8.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbcd.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmac.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmae.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmaf.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb1.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb2.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb3.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb8.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmba.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbb.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbd.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc1.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc6.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc7.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc9.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcc.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd5.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd6.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sunpark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (37 pages, 1260844 bytes).
+Output written on main.pdf (38 pages, 1264708 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 507 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

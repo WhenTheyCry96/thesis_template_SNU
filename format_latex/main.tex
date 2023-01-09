@@ -30,7 +30,6 @@
 % 특별한 설명이 없는 부분은 Word양식의 guideline을 참조하시면 됩니다.
 
 \documentclass[doctor]{snuee}
-
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{lipsum}
@@ -39,6 +38,8 @@
 \usepackage{rotating}
 % hyperref는 레퍼런스를 누르면 이동하는 패키지입니다. 필요없으시면 주석처리하시면 됩니다.
 \usepackage[colorlinks=true, linkcolor=black, citecolor=black]{hyperref} 
+% appendix는 appendix 이쁘게 나오게하는 패키지입니다. 필요없으시면 주석처리하시면 됩니다.
+\usepackage[titletoc]{appendix}
 
 % 편하게 이미지를 넣으시고 싶으실 경우, 확장자를 미리 정의하실 수 있습니다.
 % \DeclareGraphicsExtensions{.png}
@@ -238,8 +239,42 @@
 \chapter{CONCLUSION}
 \lipsum[1-4]~\cite{anderson1964hard}
 
-\chapter{APPENDICES}
-\lipsum[1-4]~\cite{anderson1964hard}
+% start appendices FIXME
+%%%%%%%%%%%%%%%%%%%%DO NOT MODIFY THIS PART%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix
+% \clearpage % or \cleardoublepage
+\newpage
+\makeatletter
+\makeatother
+\begin{appendices}
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{}
+% 밑의 sectioning이 ToC에서 보이고 싶은 느낌따라서,
+% Appendix A.1 <-- \Alph
+% Appendix 1.1 <-- \arabic 
+% 중 선택하세요.
+\renewcommand{\thesection}{\Alph{section}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{First Appendix}
+\subsection{FIXME Appendix1}
+\lipsum[1-2]~\cite{anderson1964hard}
+\begin{figure}[!t]
+	{
+	\begin{center}
+		\begin{tabular}{c}
+			\includegraphics[width=0.9\linewidth]{dummy.png}
+		\end{tabular}
+	\end{center}
+	}
+	\caption[dummy image FIXME A1]{Figure option of $!\text{t}$.}
+\label{dummy_imgA1}
+\end{figure}
+\subsection{FIXME Appendix2}
+\lipsum[1-2]~\cite{anderson1964hard}
+
+\end{appendices}
+% end appendices
 %=========================================================================================================================================================
 %=========================================================================================================================================================
 

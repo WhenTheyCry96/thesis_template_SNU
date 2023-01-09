@@ -17,6 +17,9 @@
 \contentsline {section}{\numberline {3.1}Discussion:section I}{18}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Discussion:section I-1}{19}{subsection.3.1.1}%
 \contentsline {chapter}{\numberline {4}CONCLUSION}{22}{chapter.4}%
-\contentsline {chapter}{\numberline {5}APPENDICES}{24}{chapter.5}%
-\contentsline {chapter}{Abstract (In Korean)}{27}{chapter*.6}%
-\contentsline {chapter}{Acknowlegement}{28}{chapter*.7}%
+\contentsline {chapter}{Appendix }{24}{appendix*.5}%
+\contentsline {section}{\numberline {A}First Appendix}{24}{section.1..1}%
+\contentsline {subsection}{\numberline {A.1}FIXME Appendix1}{24}{subsection.1..1.1}%
+\contentsline {subsection}{\numberline {A.2}FIXME Appendix2}{25}{subsection.1..1.2}%
+\contentsline {chapter}{Abstract (In Korean)}{28}{appendix*.7}%
+\contentsline {chapter}{Acknowlegement}{29}{appendix*.8}%
