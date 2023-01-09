@@ -29,6 +29,15 @@ You can generate $beautiful$ appendix in ToC (Table of Contents) and main-text a
      <img src="README_appendix.png" width="800" />
    </p>
 
+### 4. Korean Abstract Margin
+Upper margin of the abstract (in Korean) section is changed. I left the original style code for the users as:
+
+    \changepage {-15mm}{}{}{}{}{}{}{}{15mm} % 수정된 초록과 감사의 글을 위한 여백 재설정!
+    % \changepage {15mm}{}{}{}{}{-30mm}{}{}{15mm} %초록과 감사의 글을 위한 여백 재설정, 고치거나 삭제하지 마십시오. (원래 포맷)
+   <p align="center">
+     <img src="README_summary.png" width="800" />
+   </p>
+
 ## Notes
 ### 1. How to Change the Name of Your Department
 You can change your department name by changing the line 248 and 256 in [snuee.cls](./format_latex/snuee.cls) file.
