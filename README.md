@@ -22,7 +22,7 @@ You can generate 'Table' (or 'Figure') in List of Tables (Figures) page. If you 
      <img src="README_figuretable_name.png" width="800" />
    </p>
 
-### 3. Appendix 
+### 3. Beautiful Appendix Generation
 You can generate $beautiful$ appendix in ToC (Table of Contents) and main-text as follows:
    <p align="center">
      <img src="README_appendix.png" width="800" />
