@@ -1,7 +1,8 @@
 # Ph.D. Thesis Disseration Template
 
 ## Seoul National University 
-### (default: Electrical and Computer Engineering) updated by [SH Park](https://www.linkedin.com/in/seong-hyeon-park-884296160/)
+### (default: Electrical and Computer Engineering) 
+#### updated by [SH Park](https://www.linkedin.com/in/seong-hyeon-park-884296160/)
 
 This version is the updated version of $\LaTeX$ format provided by [SNU ECE](https://ee.snu.ac.kr/community/notice/academic?bm=v&bbsidx=48811)
 
