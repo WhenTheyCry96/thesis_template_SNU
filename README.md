@@ -1,4 +1,4 @@
-# Ph.D. Thesis Disseration Template
+# Ph.D. Thesis (Disseration) Template
 
 ## Seoul National University 
 ### (default: Electrical and Computer Engineering) 
