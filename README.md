@@ -14,6 +14,8 @@ This version is the updated version of $\LaTeX$ format provided by [SNU ECE](htt
 ### 2. bibtex BSTCTL 추가
 You can automatically control the length of the reference author list. If you don't want to use this feature or if you want to change the feature, comment the lines from 3 to 7 of [Ref.bib](./format_latex/Ref.bib) file.
 
+### 3. 전공명: `전기 정보 공학부`에서 `전기정보공학부`로 변경
+
 ## Updates, Aug. 2022:
 ### 1. Nomenclature Page Generation
 You have to compile the tex file with makeindex as follows:
