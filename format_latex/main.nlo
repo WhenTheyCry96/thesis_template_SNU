@@ -5,5 +5,6 @@
 \nomenclatureentry{a\(:a\)@[{\(:a\)}]\begingroup Punctuation symbol\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{a\(Aa\)@[{\(Aa\)}]\begingroup Uppercase letter\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{a\(aa\)@[{\(aa\)}]\begingroup Lowercase letter\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a\(\hat{H}\)@[{\(\hat{H}\)}]\begingroup Hamiltonian\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{a\(\hat{a}^{\dag}_i\)@[{\(\hat{a}^{\dag}_i\)}]\begingroup Creation operator\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{a\(\alpha\)@[{\(\alpha\)}]\begingroup Greek character\nomeqref {0}|nompageref}{1}

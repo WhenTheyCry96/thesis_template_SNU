@@ -30,6 +30,7 @@
 % 특별한 설명이 없는 부분은 Word양식의 guideline을 참조하시면 됩니다.
 
 \documentclass[doctor]{snuee}
+\usepackage{filecontents}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{lipsum}
@@ -40,6 +41,16 @@
 \usepackage[colorlinks=true, linkcolor=black, citecolor=black]{hyperref} 
 % appendix는 appendix 이쁘게 나오게하는 패키지입니다. 필요없으시면 주석처리하시면 됩니다.
 \usepackage[titletoc]{appendix}
+
+% reference bibtex format용도입니다. Ref.bib 의 첫번째 커맨드를 보시면 저자 수에 따른 et al 사용 등 조절 가능.
+\makeatletter
+\def\bstctlcite{\@ifnextchar[{\@bstctlcite}{\@bstctlcite[@auxout]}}
+\def\@bstctlcite[#1]#2{\@bsphack
+  \@for\@citeb:=#2\do{%
+    \edef\@citeb{\expandafter\@firstofone\@citeb}%
+    \if@filesw\immediate\write\csname #1\endcsname{\string\citation{\@citeb}}\fi}%
+  \@esphack}
+\makeatother 
 
 % 피규어들의 폴더 경로를 알아서 figure 폴더로 잡는 줄입니다. 필요없으시면 주석처리하시면 됩니다.
 \graphicspath{{figure/}}
@@ -78,6 +89,7 @@
 % 외표지, 내표지(외표지와 동일), 인준지가 자동으로 생성됩니다.
 
 \begin{document}
+\bstctlcite{IEEEexample:BSTcontrol}
 \renewcommand{\baselinestretch}{1.5}    % 본문의 줄간격 조정, 고치거나 삭제하지 마십시오.
 \selectfont                             
 
@@ -133,9 +145,9 @@
 \nomenclature{\(:a\)}{Punctuation symbol}
 \nomenclature{\(Aa\)}{Uppercase letter}
 \nomenclature{\(aa\)}{Lowercase letter}
+\nomenclature{\(\hat{H}\)}{Hamiltonian}
 \nomenclature{\(\hat{a}^{\dag}_i\)}{Creation operator}
 \nomenclature{\(\alpha\)}{Greek character}
-
 
 %=========================================================================================================================================================
 %=========================================================================================================================================================
