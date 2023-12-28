@@ -8,6 +8,12 @@ This version is the updated version of $\LaTeX$ format provided by [SNU ECE](htt
 
 ## What's Different?
 
+## Updates, Dec. 2023:
+### 1. 인준지 심사위원 (인) 추가
+
+### 2. bibtex BSTCTL 추가
+You can automatically control the length of the reference author list. If you don't want to use this feature or if you want to change the feature, comment the lines from 3 to 7 of [Ref.bib](./format_latex/Ref.bib) file.
+
 ## Updates, Aug. 2022:
 ### 1. Nomenclature Page Generation
 You have to compile the tex file with makeindex as follows:
