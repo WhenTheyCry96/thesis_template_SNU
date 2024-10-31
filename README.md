@@ -11,9 +11,10 @@ This version is the updated version of $\LaTeX$ format provided by [SNU ECE](htt
 ### 1. 전공명: `전기정보공학부`에서 `전기·정보공학부`로 변경
 
 ### 2. Ordering Nomenclatures
-You can force the ordering sequences of nomenclatures
+You can force the nomenclature order as follows:
 
     \nomenclature[A, 01]{\(\mu_0\)}{Vacuum permeability}
+    \nomenclature[A, 02]{\(\varepsilon_0\)}{Vacuum permittivity}
 
 ## Updates, Dec. 2023:
 ### 1. 인준지 심사위원 (인) 추가
