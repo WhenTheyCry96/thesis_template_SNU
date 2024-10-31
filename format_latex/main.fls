@@ -361,7 +361,8 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc9.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb3.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmad.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc2.tfm
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb2.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmae.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmcc.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmbb.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmac.tfm
@@ -370,7 +371,11 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmcd.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc6.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc8.tfm
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmae.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmbc.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmac.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd5.tfm
@@ -398,6 +403,7 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
@@ -602,7 +608,6 @@ INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb
-INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb

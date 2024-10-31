@@ -7,6 +7,13 @@
 This version is the updated version of $\LaTeX$ format provided by [SNU ECE](https://ee.snu.ac.kr/community/notice/academic?bm=v&bbsidx=48811)
 
 ## What's Different?
+## Updates, Oct. 2024:
+### 1. 전공명: `전기정보공학부`에서 `전기·정보공학부`로 변경
+
+### 2. Ordering Nomenclatures
+You can force the ordering sequences of nomenclatures
+
+    \nomenclature[A, 01]{\(\mu_0\)}{Vacuum permeability}
 
 ## Updates, Dec. 2023:
 ### 1. 인준지 심사위원 (인) 추가

@@ -245,7 +245,7 @@
 						{	% FIXME
 							\fontsize {14pt}{16pt}
 							\selectfont
-							전기 정보 공학부 \\
+							전기·정보공학부 \\
 						}
 						{	
 							\fontsize {16pt}{24pt}
@@ -309,7 +309,7 @@
                 서울대학교 대학원\\
                 \vspace{5mm}
                 \Large
-                전기정보공학부\\
+                전기·정보공학부\\
                 \vspace {5mm}
                 \fontsize{16pt}{16pt}
                 \selectfont
