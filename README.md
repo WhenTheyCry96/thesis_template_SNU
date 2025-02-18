@@ -7,6 +7,9 @@
 This version is the updated version of $\LaTeX$ format provided by [SNU ECE](https://ee.snu.ac.kr/community/notice/academic?bm=v&bbsidx=48811)
 
 ## What's Different?
+## Updates, Feb. 2025:
+### 1. Typo fixed: `ACKNOWLEDGEMENT` section
+
 ## Updates, Oct. 2024:
 ### 1. 전공명: `전기정보공학부`에서 `전기·정보공학부`로 변경
 

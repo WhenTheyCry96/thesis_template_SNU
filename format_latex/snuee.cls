@@ -603,7 +603,7 @@
 		\chapter*{감사의 글}
 		\addcontentsline{toc}{chapter}{감사의 글}
 	\else
-		\chapter*{ACKNOWLEGEMENT}
+		\chapter*{ACKNOWLEDGEMENT}
 		\addcontentsline{toc}{chapter}{Acknowlegement}
 	\fi
     \pagestyle{empty}
